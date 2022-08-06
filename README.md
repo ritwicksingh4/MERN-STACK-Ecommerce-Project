@@ -4,6 +4,12 @@ for state management,NodeJS & Express for backend with MongoDB as database.
 Features : Password and authentication for different users. Search product with filtration. Cart and Checkout. Product and
 user database handling by Admin.
 
+# Images
+![Project IMG](img1.png)
+
+# Deployed Link
+https://mern-ecommerce-store-jnhm.herokuapp.com/
+
 # Dependencies
 
 **For Backend** - `npm i`
@@ -28,4 +34,3 @@ SMPT_PORT=
 CLOUDINARY_NAME
 CLOUDINARY_API_KEY
 CLOUDINARY_API_SECRET
-## Author
