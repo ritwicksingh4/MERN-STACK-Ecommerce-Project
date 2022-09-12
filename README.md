@@ -5,7 +5,7 @@ Features : Password and authentication for different users. Search product with 
 user database handling by Admin.
 
 # Images
-![Project IMG](img1.png)
+![Project IMG](img_project.png)
 
 # Deployed Link
 https://mern-ecommerce-store-jnhm.herokuapp.com/
